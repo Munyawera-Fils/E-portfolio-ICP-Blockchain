@@ -1,0 +1,59 @@
+{
+    "profile":[
+      {"id":"18446744073709551615", 
+      "firstname":"rusanganwa",
+      "lastname":"alexis",
+      "middlename":"mubutu",
+      "email":"rusanganwa@gmail.com",
+      "phone_number":"+250787900800",
+      "data_of_birth":"12-10-1992",
+      "gender":"male",
+      "country":"Rwanda",
+      "address":"kigali - kicukiro",
+      "created_by":"pixel inc"}],
+    "certifications":[
+        {
+            "id":"12",
+            "description":"software engineering 1",
+            "start_date":"10-01-2016",
+            "end_date":"10-01-2017",
+            "created_by":"RISA",
+            "issued_at":"12-01-2017",
+            "profile_id":"18446744073709551615"
+        },
+        {
+            "id":"120",
+            "description":"software engineering 2",
+            "start_date":"10-02-2017",
+            "end_date":"10-02-2018",
+            "created_by":"RISA",
+            "issued_at":"12-02-2018",
+            "profile_id":"18446744073709551615"
+        }
+    ],
+    "EducationInfo":[
+        {
+            "id":"13",
+            "academic_level":"advanced level in MPC",
+            "school_name":"Muhazi secondary school",
+            "start_date":"10-01-2016",
+            "end_date":"10-02-2018",
+            "created_by":"Muhazi secondary school",
+            "short_note":"good student",
+            "profile_id":"18446744073709551615"
+
+        },        
+        {
+            "id":"340",
+            "academic_level":"bachelor of information and technology",
+            "school_name":"University of Kigali",
+            "start_date":"10-01-2016",
+            "end_date":"10-02-2018",
+            "created_by":"University of Kigali",
+            "short_note":"good student",
+            "profile_id":"18446744073709551615"
+        }
+    ],
+    "ExperienceInfo":[]
+    }
+
